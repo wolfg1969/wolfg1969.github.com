@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://wolfg1969.github.com
-title: wolfg1969 git log
-subtitle: git以及github使用记录
+title: my git log
+subtitle: 我的git以及github使用记录
 author: wolfg1969
 simple_search: http://google.com/search
 description:
@@ -61,7 +61,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 github_user: wolfg1969
 github_repo_count: 0
 github_show_profile_link: true
-github_skip_forks: true
+github_skip_forks: false
 
 # Twitter
 twitter_user:
@@ -85,7 +85,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: wolfg
 delicious_count: 3
 
 # Disqus Comments
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
