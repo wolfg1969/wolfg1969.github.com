@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wolfg1969.github.com
-title: my git log
-subtitle: 我的git以及github使用记录
-author: wolfg1969
+url: http://guoyong.me
+title: wolfg's Weblog
+subtitle: wolfg's journey with open source, linux, programming, sysadm …
+author: wolfg
 simple_search: http://google.com/search
 description:
 
