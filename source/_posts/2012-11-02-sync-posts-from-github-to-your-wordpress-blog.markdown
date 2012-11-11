@@ -8,5 +8,5 @@ categories:
 
 {% img http://wolfg1969.github.com/images/ifttt-github-wordpress.png %}
 
-Use ifttt. Note that I have to use the link to raw atom feed otherwise iftt will complian that no feed title found.
+Use ifttt. Note that I have to use the link to raw atom feed otherwise ifttt will complian that no feed title found.
 
