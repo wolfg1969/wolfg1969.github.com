@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wolfg1969.github.com
-title: wolfg's Weblog
-subtitle: wolfg's journey with open source, linux, programming, sysadm …
+url: http://gitlog.guoyong.me
+title: wolfg's git log
+subtitle: git log wolfg1969.github.com
 author: wolfg
 simple_search: http://google.com/search
 description:
