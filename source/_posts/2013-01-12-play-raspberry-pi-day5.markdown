@@ -6,7 +6,7 @@ slug: play-raspberry-pi-day5
 title: Raspberry Pi 跨年之旅 – 第五天
 wordpress_id: 1205
 categories:
-- Linux
+- Raspberry Pi
 tags:
 - lego
 - Linux

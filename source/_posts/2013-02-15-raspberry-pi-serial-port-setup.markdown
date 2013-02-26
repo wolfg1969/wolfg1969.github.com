@@ -5,9 +5,7 @@ layout: post
 slug: raspberry-pi-serial-port-setup
 title: 树莓派串口配置
 wordpress_id: 1272
-categories:
-- Linux
-- OSS
+categories: Raspberry Pi
 tags:
 - minicom
 - raspberry pi

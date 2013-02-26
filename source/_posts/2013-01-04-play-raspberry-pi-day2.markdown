@@ -6,7 +6,7 @@ slug: play-raspberry-pi-day2
 title: Raspberry Pi 跨年之旅 - 第二天
 wordpress_id: 1159
 categories:
-- Linux
+- Raspberry Pi
 tags:
 - Linux
 - raspberry pi
