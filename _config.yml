@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.guoyong.me
-title: wolfg's Weblog
-subtitle: wolfg's journey with open source, linux, programming, sysadm …
+url: http://raspberrypi.guoyong.me
+title: 树莓派玩家 Raspberry Pi Hobbyist
+subtitle: 树莓派，玩出精彩
 author: wolfg
 simple_search: http://google.com/search
 description:
@@ -27,17 +27,17 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: /categories
 markdown: rdiscount
 pygments: true # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir: /  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
